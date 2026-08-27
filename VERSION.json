@@ -1,0 +1,11 @@
+{
+  "version": "2026-08-28-preview.1",
+  "release_tag": "v2026-08-28-preview.1",
+  "language": "vi",
+  "scope": [
+    "EGA II.7.3.10"
+  ],
+  "completion": "partial",
+  "public_access_required": true
+}
+

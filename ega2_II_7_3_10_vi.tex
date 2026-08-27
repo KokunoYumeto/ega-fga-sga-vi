@@ -1,0 +1,54 @@
+% EGA II Vietnamese source-aligned unit II.7.3.10.
+% French authority: PMIHES_1961__8__5_0, printed pp. 146-147.
+% English comparison: source_freeze/english_reference_20260825/ega2/ega2-7.tex, lines 387-434.
+% Sealed Brazilian-Portuguese comparison: units_pt_BR/07_section7/pt_BR_7_3_f.tex.
+
+\begin{corollary}[7.3.10]
+\label{II.7.3.10}
+Cho $Y$ là một lược đồ nguyên (tương ứng, một lược đồ nguyên Noether địa phương), $X$ là một lược đồ nguyên và $f:X\to Y$ là một cấu xạ trội.
+\begin{enumerate}
+  \item[\rm{(i)}] Nếu $f$ là quasi-compact và đóng phổ dụng, thì mọi vành định giá có trường phân thức là trường $R(X)$ của các hàm hữu tỉ trên $X$, đồng thời chi phối một vành địa phương của $Y$, cũng chi phối một vành địa phương của $X$.
+  \item[\rm{(ii)}] Ngược lại, giả sử $f$ thuộc kiểu hữu hạn và tính chất nêu trong~(i) được thỏa mãn đối với mọi vành định giá (tương ứng, mọi vành định giá rời rạc) có $R(X)$ làm trường phân thức.
+  Khi đó $f$ là một cấu xạ riêng.
+\end{enumerate}
+\end{corollary}
+
+\begin{proof}
+Trước hết, lưu ý rằng trong mọi trường hợp các giả thiết đều kéo theo $f$ là một cấu xạ tách \sref[I]{I.5.5.9}.
+\begin{enumerate}
+  \item[\rm{(i)}] Đặt $K=R(Y)$, $L=R(X)$; lấy một điểm $y$ của $Y$ và một vành định giá $A$ chi phối $\sh{O}_y$, có $L$ làm trường phân thức.
+  Đồng cấu đơn ánh $\sh{O}_y\to A$ khi đó xác định một cấu xạ $h:Y'=\Spec(A)\to Y$ \sref[I]{I.2.4.4} sao cho $h(a)=y$, trong đó $a$ ký hiệu điểm đóng của $Y'$.
+  Hơn nữa, nếu $\eta$ là điểm tổng quát của $Y$, cũng là điểm tổng quát của $\Spec(\sh{O}_y)$, thì $h(b)=\eta$, trong đó $b$ ký hiệu điểm tổng quát của $Y'$ (vì $K\subset L$ theo giả thiết).
+  Nếu $\xi$ là điểm tổng quát của $X$, thì theo giả thiết $\kres(\xi)=\kres(b)=L$, do đó có một $Y$-cấu xạ $g:\Spec(L)\to X$ sao cho $g(b)=\xi$.
+  Theo \sref{II.7.3.8}, $g$ mở rộng thành một $Y$-cấu xạ $g':Y'\to X$.
+  Nếu $x=g'(a)$, hiển nhiên $A$ chi phối $\sh{O}_x$.
+
+  \item[\rm{(ii)}] Vì bài toán có tính địa phương trên $Y$, có thể giả sử $Y$ là affine (tương ứng, affine và Noether).
+  Vì $f$ thuộc kiểu hữu hạn, trong cả hai trường hợp đều có thể áp dụng bổ đề Chow \sref{II.5.6.1}.
+  Do đó tồn tại một cấu xạ xạ ảnh $p:P\to Y$, một phép nhúng $j:X'\to P$ và một cấu xạ xạ ảnh, toàn ánh, song hữu tỉ $g:X'\to X$, với $X'$ nguyên, sao cho biểu đồ
+  \[
+    \xymatrix{
+      P \ar[d]_p
+      & X' \ar[l]_j \ar[d]^g
+      \\ Y
+      & X \ar[l]^f
+    }
+  \]
+  giao hoán.
+  Chỉ cần chứng minh rằng $j$ là một phép nhúng \emph{đóng}; khi đó $f\circ g=p\circ j$ là một cấu xạ xạ ảnh, do đó là một cấu xạ riêng, và vì $g$ toàn ánh nên $f$ cũng là một cấu xạ riêng \sref{II.5.4.3}.
+  Gọi $Z$ là tiền lược đồ con đóng rút gọn của $P$ có không gian nền là $\overline{j(X')}$ \sref[I]{I.5.2.1}.
+  Vì $X'$ nguyên, $j$ phân tích thành $i\circ h$, trong đó $i:Z\to P$ là phép nhúng chính tắc, $h:X'\to Z$ là một phép nhúng mở trội \sref[I]{I.5.2.3}, và $Z$ nguyên.
+\oldpage[II]{147}
+  Hơn nữa, $Z$ xạ ảnh trên $Y$; ta thấy rằng có thể thu hẹp về trường hợp $P$ \emph{nguyên}, còn $j$ \emph{trội} và \emph{song hữu tỉ}, và khi đó mọi việc quy về chứng minh $j$ \emph{toàn ánh}.
+  Thật vậy, lấy $z\in P$.
+  Khi đó $\sh{O}_z$ là một vành địa phương nguyên (tương ứng, nguyên và Noether) có trường phân thức
+  \[
+    L=R(P)=R(X')=R(X).
+  \]
+  Có thể chỉ xét trường hợp $z$ không phải là điểm tổng quát của $P$.
+  Khi đó, theo \sref{II.7.1.2} và \sref{II.7.1.7}, tồn tại một vành định giá (tương ứng, một vành định giá rời rạc) $A$ chi phối $\sh{O}_z$ và có $L$ làm trường phân thức.
+  \emph{A fortiori}, $A$ chi phối $\sh{O}_y$, với $y=p(z)$; theo giả thiết, tồn tại một $x\in X$ sao cho $A$ chi phối $\sh{O}_x$.
+  Vì $g$ là một cấu xạ riêng, phần đầu của chứng minh cho thấy $A$ cũng chi phối $\sh{O}_{x'}$ với một $x'\in X'$.
+  Suy ra $\sh{O}_z$ và $\sh{O}_{j(x')}=\sh{O}_{x'}$ liên hệ với nhau theo nghĩa của \sref[I]{I.8.1.4}; vì $P$ là một lược đồ, điều này kéo theo $z=j(x')$ \sref[I]{I.8.2.2}, và chứng minh kết thúc.
+\end{enumerate}
+\end{proof}

@@ -1,0 +1,39 @@
+{
+  "schema": "public_multilingual_checkpoint_validation_v1",
+  "validated_utc": "2026-08-27T22:07:19.0373260Z",
+  "language": "Vietnamese",
+  "work": "EGA II",
+  "unit": "II.7.3.10",
+  "scope": "Corollary and proof; French printed pages 146-147",
+  "source": {
+    "filename": "ega2_II_7_3_10_vi.tex",
+    "bytes": 4761,
+    "sha256": "8F46CC8EB4B900C270E92F17243E4EEA10BC085CD8EEC87216F171EAB32DE002",
+    "lf_lines": 54
+  },
+  "deterministic_pdf": {
+    "filename": "EGA_II_7_3_10_VI_FIRST_PUBLIC_CHECKPOINT.pdf",
+    "bytes": 100250,
+    "sha256": "B362CF9BAEF2FCC41A2D991BE4455BF69C4C20B1A380B57D3AF87FF73267EDE9",
+    "pages": 1,
+    "replay_runs": 2,
+    "byte_identical": true
+  },
+  "checks": {
+    "hard_tex_errors": 0,
+    "undefined_control_sequences": 0,
+    "overfull_boxes": 0,
+    "underfull_boxes": 0,
+    "missing_glyphs": 0,
+    "balanced_braces": true,
+    "structural_source_alignment": "PASS",
+    "visual_pages_reviewed": "1/1",
+    "visual_result": "PASS"
+  },
+  "predecessor_gates": {
+    "matching_pt_br_unit_sha256": "85638D488BBF7F5400ADB4435E6D8C2D7A11A29E7549025BD4D7919EB6A9B8D2",
+    "vi_terminology_canon_sha256": "F07E101E040A506A1F79672B7C685067BC5E02A6B1508F99A952088409CE8B98"
+  },
+  "disposition": "VALIDATED_PARTIAL_PUBLIC_PREVIEW"
+}
+
