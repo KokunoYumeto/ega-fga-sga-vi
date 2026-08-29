@@ -1,6 +1,19 @@
 # EGA, FGA và SGA bằng tiếng Việt — bản xem trước đã kiểm định
 
-> **Bản đồ bản dịch:** duyệt các ấn bản EGA, FGA và SGA theo tác phẩm và ngôn ngữ tại [Grothendieck Translation Atlas](https://github.com/KokunoYumeto/ega-fga-sga).
+## Related editions
+
+Each link goes directly to a peer edition repository; there is no central hub. Coverage describes public releases and may trail local production.
+
+| Edition | Language | Public scope |
+|---|---|---|
+| [EGA — French](https://github.com/KokunoYumeto/ega-fr) | French | Complete declared EGA I–IV scope |
+| [EGA — English](https://github.com/KokunoYumeto/ega-en) | English | Complete declared EGA 0–IV scope |
+| [EGA/FGA — Spanish](https://github.com/KokunoYumeto/ega-fga-es) | Spanish | Validated partial EGA; FGA tranches A and B |
+| [SGA — Spanish](https://github.com/KokunoYumeto/sga-es) | Spanish | Complete 13-book linked edition |
+| [SGA — English](https://github.com/KokunoYumeto/sga-en) | English | Complete published scope; SGA 6 has mixed source alignment |
+| [EGA/FGA/SGA — Brazilian Portuguese](https://github.com/KokunoYumeto/ega-fga-sga-pt-br) | Brazilian Portuguese | Validated partial release, including complete EGA III-1 and SGA 5 readers |
+| [EGA/FGA/SGA — Vietnamese](https://github.com/KokunoYumeto/ega-fga-sga-vi) | Vietnamese | Validated partial release; current public readers are EGA |
+| [FGA — English (external)](https://github.com/thosgood/fga) | English | Independently maintained external edition |
 
 ## Bản phát hành công khai hiện tại
 
@@ -26,4 +39,3 @@ Danh mục tài sản chính xác nằm trên trang release và trong `CONTENT_M
 Đây là bản dịch toán học không chính thức, đã kiểm định và chưa đầy đủ. Nó không tuyên bố rằng toàn bộ EGA, FGA hoặc SGA đã được dịch. Công thức, nhãn, tham chiếu và cấu trúc TeX được đối chiếu xác định với các nguồn đã đóng băng; các nhánh ngoại giao và sửa chữa được chấp nhận được bảo tồn theo cách có thể đảo ngược và kiểm tra.
 
 Các thông báo lịch sử về tác giả và bản quyền chỉ được bảo tồn như nguồn gốc. Không có tuyên bố giấy phép mở chung cho tài liệu lịch sử nền tảng.
-
