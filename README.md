@@ -1,27 +1,29 @@
 # EGA, FGA và SGA bằng tiếng Việt — bản xem trước đã kiểm định
 
-Đây là bản xem trước công khai, chưa đầy đủ, của chương trình dịch EGA, FGA và SGA sang tiếng Việt.
+> **Bản đồ bản dịch:** duyệt các ấn bản EGA, FGA và SGA theo tác phẩm và ngôn ngữ tại [Grothendieck Translation Atlas](https://github.com/KokunoYumeto/ega-fga-sga).
 
-Phạm vi của phiên bản `v2026-08-28-preview.1` chỉ gồm **EGA II, Hệ quả II.7.3.10 và chứng minh**, tương ứng với các trang in 146–147 của bản tiếng Pháp. Không được hiểu bản xem trước một đơn vị này là một bản dịch hoàn chỉnh của EGA II hoặc của toàn bộ EGA/FGA/SGA.
+## Bản phát hành công khai hiện tại
 
-## Tệp chính
+- [Bản phát hành GitHub mới nhất](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/latest)
+- [Phiên bản `v2026-08-28-preview.9`](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/tag/v2026-08-28-preview.9)
+- [DOI khái niệm ổn định `10.5281/zenodo.22134809`](https://doi.org/10.5281/zenodo.22134809)
+- [Snapshot chính xác `10.5281/zenodo.22147564`](https://doi.org/10.5281/zenodo.22147564)
 
-- `EGA_II_7_3_10_VI_FIRST_PUBLIC_CHECKPOINT.pdf` — bản PDF một trang đã được dựng lại xác định và kiểm tra trực quan.
-- `ega2_II_7_3_10_vi.tex` — nguồn TeX tiếng Việt có thể chỉnh sửa.
-- `VALIDATION_RECEIPT.json` — biên nhận kiểm định đã lược bỏ đường dẫn máy cục bộ và thông tin xác thực.
-- `PROVENANCE.md` — phạm vi nguồn, chuỗi thẩm quyền và các cổng đã qua.
-- `SHA256SUMS.txt` — độ dài byte và SHA-256 của các tệp phát hành.
+GitHub là bề mặt đọc và khám phá đang hoạt động; Zenodo lưu giữ các snapshot có thể trích dẫn. Bản phát hành công khai hiện tại gồm **tám đơn vị đọc hiện hành, 19 trang**, cùng nguồn và bằng chứng kiểm định.
 
-## Trạng thái kiểm định
+## Phạm vi công khai
 
-- Hai lần dựng LuaLaTeX độc lập cho kết quả PDF giống hệt từng byte.
-- 0 lỗi TeX nghiêm trọng, 0 lệnh không xác định, 0 hộp tràn/thiếu và 0 ký tự bị thiếu.
-- Cấu trúc định lý, chứng minh, danh sách, nhãn và mốc trang được đối chiếu với nguồn duy trì.
-- Trang 1/1 đã được kết xuất PNG và kiểm tra trực quan.
-- Đơn vị tiếng Bồ Đào Nha Brasil tương ứng đã tồn tại trước đơn vị tiếng Việt này.
-- Kho thuật ngữ hình học đại số tiếng Việt gồm 14 nhân chứng đã qua kiểm định trước khi dịch.
+- **EGA I** — §§7.3.1–7.3.7 dưới dạng một bản đọc gộp và các delta độc lập.
+- **EGA II** — Hệ quả II.7.3.10 và chứng minh.
+- **EGA IV-1** — §14.1–§14.3 và §15 đến §15.1.16; có các nhánh hiện hành và ngoại giao khi cần.
+- **EGA IV-2** — phần mở đầu và §§2.1.1–2.1.14; có các nhánh hiện hành và ngoại giao.
+- **FGA / SGA** — chưa có bản đọc tiếng Việt công khai trong snapshot này.
+
+Danh mục tài sản chính xác nằm trên trang release và trong `CONTENT_MANIFEST.json` cùng `SHA256SUMS.txt`. Trang này chỉ mô tả byte đã công bố; công việc cục bộ có thể đi trước.
 
 ## Tính chất của ấn bản
 
-Đây là bản dịch học thuật không chính thức. Văn bản gốc và các quyền liên quan vẫn thuộc về các tác giả, nhà xuất bản và chủ thể quyền tương ứng. Kho lưu trữ này công khai các byte của bản dịch, nguồn chỉnh sửa và bằng chứng kiểm định để phục vụ việc đọc, nghiên cứu, sửa lỗi và tái lập.
+Đây là bản dịch toán học không chính thức, đã kiểm định và chưa đầy đủ. Nó không tuyên bố rằng toàn bộ EGA, FGA hoặc SGA đã được dịch. Công thức, nhãn, tham chiếu và cấu trúc TeX được đối chiếu xác định với các nguồn đã đóng băng; các nhánh ngoại giao và sửa chữa được chấp nhận được bảo tồn theo cách có thể đảo ngược và kiểm tra.
+
+Các thông báo lịch sử về tác giả và bản quyền chỉ được bảo tồn như nguồn gốc. Không có tuyên bố giấy phép mở chung cho tài liệu lịch sử nền tảng.
 
