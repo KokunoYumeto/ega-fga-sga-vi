@@ -1,0 +1,218 @@
+{
+  "version": "2026-09-07-preview.1",
+  "language": "vi",
+  "coverage": "Partial collection; EGA IV-2 sections 2.1 and 2.8 only",
+  "entries": [
+    {
+      "filename": "EGA_FGA_SGA_VI_VALIDATED_SOURCE_PREVIEW_20260828.zip",
+      "bytes": 7011,
+      "sha256": "012A7B3CD93B20318CD9A88F3F10F38B463C2720B8DB68DAC261DF1DF3C52162",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_I_7_3_1_7_3_4_VI.pdf",
+      "bytes": 56386,
+      "sha256": "39B6A2572698C3AE9F0F9125D5D96A8AB2110EE4D44088E54AC269AEDF23780B",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_I_7_3_1_7_3_4_VI_SOURCE_EVIDENCE_20260828.zip",
+      "bytes": 59413,
+      "sha256": "A07FD1980149A197ACB5AB8D40F4A82232ABE0A6E8A51C9FB7C6E47DBE5F653B",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_I_7_3_5_VI_SOURCE_EVIDENCE_20260828.zip",
+      "bytes": 16896,
+      "sha256": "C8EE94C70C93A33EF10D419FE4A46D5E0CBC33E2CAD4B0E0798B1C6094AD5E6E",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_I_7_3_6_VI_SOURCE_EVIDENCE_20260828.zip",
+      "bytes": 9987,
+      "sha256": "D2D15E18204D37D598013A6EBFDEB58D594353C2EB48F0064167EA0A854456E0",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_I_7_3_7_VI_SOURCE_EVIDENCE_20260828.zip",
+      "bytes": 8193,
+      "sha256": "9F5498D2BFB12C5033D50C4A378566BC7A4030C1EC458009AF559604FB58A443",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_I_VI_SEC735.pdf",
+      "bytes": 38279,
+      "sha256": "9A47FC898E4A1D57F3BBBF8A7D4EBAFE2D79252AA61E9F53AB14C9EDC3382918",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_I_VI_SEC736.pdf",
+      "bytes": 38373,
+      "sha256": "89BB6BB0FF0C6185651400C3A0A0B311E057187C0505C600502F1C17DBA22ECD",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_I_VI_SEC737.pdf",
+      "bytes": 36449,
+      "sha256": "05A17AD8E36C73D18061B0E465701A6143CB5105995B680F91BEA0495F59BD7E",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_II_7_3_10_VI_FIRST_PUBLIC_CHECKPOINT.pdf",
+      "bytes": 100250,
+      "sha256": "B362CF9BAEF2FCC41A2D991BE4455BF69C4C20B1A380B57D3AF87FF73267EDE9",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV1_VI_15_1_15_PACKAGE_SEAL_20260828.json",
+      "bytes": 1222,
+      "sha256": "E643AFC8E360D8666257F3A8B9D4FF85631A32A5C9A428E8591B771F0A25DE47",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV1_VI_15_1_16_CHECKPOINT_20260828.json",
+      "bytes": 6328,
+      "sha256": "15F1D1A6EBE685130E2D8C36CC24E8612BA2F348265EB8D05E3602E575B7DD23",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV1_VI_15_1_16_INDEPENDENT_CONTROL_20260828.json",
+      "bytes": 1961,
+      "sha256": "844082097DC7F6C642019CA80CAEB29999DF5077B97080AF024AB144CCFD0CCE",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV1_VI_SECTION14_7168C6F6_20260828.zip",
+      "bytes": 403167,
+      "sha256": "74BA8BD1FD4F81B3CA64C86D6D667723365BEDD2155236E52C4D97832F9CF44C",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV1_VI_SECTION14_CURRENT.pdf",
+      "bytes": 181604,
+      "sha256": "98F4EA9CACF3FEDE5DC92B5316DE05192F3FDF5D100BCC3E74B0D9DA6B59E534",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV1_VI_SECTION14_DIPLOMATIC.pdf",
+      "bytes": 181660,
+      "sha256": "471B226F6AAAF103F12163C672626DBBD91ECE8746D415A0C3344F21DB58A2B3",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV1_VI_SECTION15_THROUGH_15_1_15_CBFECEA2_20260828.zip",
+      "bytes": 385679,
+      "sha256": "64AD2B2C4AD1572093799DD847808F48BC3FB88D65EBAF6FC0C0E06F38A4A963",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV1_VI_SECTION15_THROUGH_15_1_15_CONTENT_MANIFEST.tsv",
+      "bytes": 4495,
+      "sha256": "04AD34D4483F00CB4BA61B4DBA1D1B1EBE0247C232C19F34758686ACFE71A3C8",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV1_VI_SECTION15_THROUGH_15_1_16_CURRENT.pdf",
+      "bytes": 176201,
+      "sha256": "E9CE89077CE28422616E3C8074E1261452C67BF4DE95DBE1CE8113EBEA1CDA3A",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV1_VI_SECTION15_THROUGH_15_1_16_DIPLOMATIC.pdf",
+      "bytes": 176361,
+      "sha256": "B14F46324C328A304E855114BB3386FFEE0D12A349A899644C18900C46ECA7E5",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV2_2_1_PTBR_VI_FINAL_SEAL_R3_20260828.json",
+      "bytes": 4135,
+      "sha256": "C09DD0F2B472133A05664C1553FBBCE574F0494EF6FD862A9A1622836D9EA3F7",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV2_2_1_PTBR_VI_INDEPENDENT_AUDIT_R3_20260828.json",
+      "bytes": 4399,
+      "sha256": "DDAB76C2823FF4FF0EA8A0F7C5AB803957E392D9B886478C85A65F38F8776AE2",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV2_2_1_PTBR_VI_SEALED_R3_20260828.zip",
+      "bytes": 7879443,
+      "sha256": "2D4E6A413D4B4E64169FF4EFB35E5E4DAB9A511B2F9C4014A0BBCA55C487E022",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV2_2_1_VI_CURRENT.pdf",
+      "bytes": 80686,
+      "sha256": "6D7ABF3E2D887C65019E6141D179A987B8CBF72B6BF585767C4BC7C9BCDECABD",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV2_2_1_VI_DIPLOMATIC.pdf",
+      "bytes": 80567,
+      "sha256": "66FE6D5745D07B7BCBD6AEC951CCF550F6B26363BE80EC720B19DBB8DC1026C4",
+      "role": "inherited_unchanged"
+    },
+    {
+      "filename": "EGA_IV2_2_8_PTBR_VI_COVER_REPAIR_R3_20260907.zip",
+      "bytes": 311640,
+      "sha256": "4B75F7BD828C8F1019660C6B99675DF256593C09CD46D59455F91EF1E784927E",
+      "role": "new_or_updated"
+    },
+    {
+      "filename": "EGA_IV2_2_8_PTBR_VI_FINAL_SEAL_R2_20260907.json",
+      "bytes": 5812,
+      "sha256": "7093E6D8FB177AD0926F160C86FD5DF4905C6806E1819BB068CEA9CC56EE58BF",
+      "role": "new_or_updated"
+    },
+    {
+      "filename": "EGA_IV2_2_8_PTBR_VI_FINAL_SEAL_R3_20260907.json",
+      "bytes": 4446,
+      "sha256": "C33D3A70A8FD0AF72059EF08ECB231EF62DB322168BC05F23C8840C617CFAAE3",
+      "role": "new_or_updated"
+    },
+    {
+      "filename": "EGA_IV2_2_8_PTBR_VI_SEALED_R2_20260907.zip",
+      "bytes": 365469,
+      "sha256": "A761754691938A6D7EB5C22770370E760104141BABB231A06EECDED9147BE44B",
+      "role": "new_or_updated"
+    },
+    {
+      "filename": "EGA_IV2_2_8_VI_CURRENT.pdf",
+      "bytes": 66587,
+      "sha256": "0F2B53DEA360A04C8FF5DD49E3C692A56919171E12CB6098C42E824ED6E70114",
+      "role": "new_or_updated"
+    },
+    {
+      "filename": "EGA_IV2_2_8_VI_DIPLOMATIC.pdf",
+      "bytes": 66602,
+      "sha256": "B7A38AC3F2FD7E55AE6AB5C55DA7E95C501B6C3F98AD572AC2A5B64D870EE4BF",
+      "role": "new_or_updated"
+    },
+    {
+      "filename": "EGA_IV2_EDITION_PROVENANCE.json",
+      "bytes": 1325,
+      "sha256": "08EA7DE6A858E2DF74B329D8B9E0088E6673F44519CCDE9818C631D8E279BD00",
+      "role": "new_or_updated"
+    },
+    {
+      "filename": "EGA_IV2_VI_CURRENT.pdf",
+      "bytes": 209263,
+      "sha256": "00520B6B5ADD934DB452EC675AC8C1A8367CD2EFF9CC4F473C65C947676C5411",
+      "role": "new_or_updated"
+    },
+    {
+      "filename": "EGA_IV2_VI_DIPLOMATIC.pdf",
+      "bytes": 209037,
+      "sha256": "2A4A1793E35403D44DC7A54790522F28E0C46E83EDCB2E7B101B4114B094B08A",
+      "role": "new_or_updated"
+    },
+    {
+      "filename": "README.md",
+      "bytes": 3226,
+      "sha256": "5613A989A6B2ECCBD91F5AACA03D07080F312EB3A86A034C1EB09D32FD6BB22B",
+      "role": "new_or_updated"
+    }
+  ],
+  "self_exclusion": "CONTENT_MANIFEST.json and SHA256SUMS.txt excluded to avoid circular hashes"
+}

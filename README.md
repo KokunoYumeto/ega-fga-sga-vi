@@ -1,41 +1,33 @@
-# EGA, FGA và SGA bằng tiếng Việt — bản xem trước đã kiểm định
+# EGA, FGA và SGA bằng tiếng Việt
 
-## Related editions
+Bộ sưu tập các bản dịch toán học độc lập, với phạm vi từng phần. Nguồn và tài liệu ghi nhận hiệu chỉnh được cung cấp cùng các bản đọc. Đây không phải tuyên bố rằng toàn bộ các tập EGA, FGA và SGA đã được dịch.
 
-Each link goes directly to a peer edition repository; there is no central hub. Coverage describes public releases and may trail local production.
+## EGA IV-2: bắt đầu đọc
 
-| Edition | Language | Public scope |
-|---|---|---|
-| [EGA — French](https://github.com/KokunoYumeto/ega-fr) | French | Complete declared EGA I–IV scope |
-| [EGA — English](https://github.com/KokunoYumeto/ega-en) | English | Complete declared EGA 0–IV scope |
-| [EGA/FGA — Spanish](https://github.com/KokunoYumeto/ega-fga-es) | Spanish | Validated partial EGA; FGA tranches A and B |
-| [SGA — Spanish](https://github.com/KokunoYumeto/sga-es) | Spanish | Complete 13-book linked edition |
-| [SGA — English](https://github.com/KokunoYumeto/sga-en) | English | Complete published scope; SGA 6 has mixed source alignment |
-| [EGA/FGA/SGA — Brazilian Portuguese](https://github.com/KokunoYumeto/ega-fga-sga-pt-br) | Brazilian Portuguese | Validated partial release, including complete EGA III-1 and SGA 5 readers |
-| [EGA/FGA/SGA — Vietnamese](https://github.com/KokunoYumeto/ega-fga-sga-vi) | Vietnamese | Validated partial release; current public readers are EGA |
-| [FGA — English (external)](https://github.com/thosgood/fga) | English | Independently maintained external edition |
+- [Bản đọc hiện hành: các mục 2.1 và 2.8](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-09-07-preview.1/EGA_IV2_VI_CURRENT.pdf).
+- [Bản dịch theo bản in: các mục 2.1 và 2.8](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-09-07-preview.1/EGA_IV2_VI_DIPLOMATIC.pdf).
 
-## Bản phát hành công khai hiện tại
+Mỗi bản đọc có sáu trang, tập hợp toàn bộ hai mục và giữ nguyên số mục gốc. Các mục 2.2 đến 2.7 chưa có trong bản đọc này. Dấu trang PDF dẫn trực tiếp đến từng mục. Các PDF riêng của mục 2.1 và mục 2.8 vẫn được cung cấp.
 
-- [Bản phát hành GitHub mới nhất](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/latest)
-- [Phiên bản `v2026-08-28-preview.9`](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/tag/v2026-08-28-preview.9)
-- [DOI khái niệm ổn định `10.5281/zenodo.22134809`](https://doi.org/10.5281/zenodo.22134809)
-- [Snapshot chính xác `10.5281/zenodo.22147564`](https://doi.org/10.5281/zenodo.22147564)
+Bản đọc hiện hành áp dụng các hiệu chỉnh đã ghi nhận. Bản dịch theo bản in giữ các cách đọc của bản in gốc. Trong mục 2.8, khác biệt duy nhất là dẫn chiếu (2.8.4.1) ở bản hiện hành và (2.8.3.1) ở bản theo bản in. Gói R2 bảo tồn nguồn và tài liệu kiểm chứng; bổ sung R3 chỉ sửa thuật ngữ trên hai trang bìa tiếng Việt, không thay đổi nội dung toán học.
 
-GitHub là bề mặt đọc và khám phá đang hoạt động; Zenodo lưu giữ các snapshot có thể trích dẫn. Bản phát hành công khai hiện tại gồm **tám đơn vị đọc hiện hành, 19 trang**, cùng nguồn và bằng chứng kiểm định.
+## Các phần khác đã công bố
 
-## Phạm vi công khai
+- EGA I: các mục 7.3.1–7.3.7, trong các PDF và gói nguồn được nêu trong bản kê tệp.
+- EGA II: Hệ quả II.7.3.10 và chứng minh.
+- EGA IV-1: Chương 0, mục 14 và mục 15 đến 15.1.16.
 
-- **EGA I** — §§7.3.1–7.3.7 dưới dạng một bản đọc gộp và các delta độc lập.
-- **EGA II** — Hệ quả II.7.3.10 và chứng minh.
-- **EGA IV-1** — §14.1–§14.3 và §15 đến §15.1.16; có các nhánh hiện hành và ngoại giao khi cần.
-- **EGA IV-2** — phần mở đầu và §§2.1.1–2.1.14; có các nhánh hiện hành và ngoại giao.
-- **FGA / SGA** — chưa có bản đọc tiếng Việt công khai trong snapshot này.
+Các bản đọc, nguồn và tài liệu kiểm chứng đã công bố được giữ nguyên trong phiên bản này. Gói song ngữ R3 ngày 2026-08-28 chỉ thuộc mục 2.1 của EGA IV-2; không được nhầm với R2/R3 của mục 2.8. Các gói mang tên 15_1_15 là tài liệu lịch sử của phạm vi ấy, không phải gói nguồn cho 15.1.16. `CONTENT_MANIFEST.json` và `SHA256SUMS.txt` xác định chính xác toàn bộ tệp.
 
-Danh mục tài sản chính xác nằm trên trang release và trong `CONTENT_MANIFEST.json` cùng `SHA256SUMS.txt`. Trang này chỉ mô tả byte đã công bố; công việc cục bộ có thể đi trước.
+## Tác giả và bản dịch
 
-## Tính chất của ấn bản
+Các phần EGA hiện có trong bộ sưu tập là nguyên tác của Alexander Grothendieck, biên soạn với sự cộng tác của Jean Dieudonné. Bản dịch độc lập có hỗ trợ của AI do dự án Interlanguage duy trì; không phải ấn bản chính thức và không được các tác giả hoặc tổ chức nguồn chứng thực. Cách đọc gốc và hiệu chỉnh biên tập được phân biệt trong tài liệu nguồn.
 
-Đây là bản dịch toán học không chính thức, đã kiểm định và chưa đầy đủ. Nó không tuyên bố rằng toàn bộ EGA, FGA hoặc SGA đã được dịch. Công thức, nhãn, tham chiếu và cấu trúc TeX được đối chiếu xác định với các nguồn đã đóng băng; các nhánh ngoại giao và sửa chữa được chấp nhận được bảo tồn theo cách có thể đảo ngược và kiểm tra.
+## Các ấn bản và nguồn khác
 
-Các thông báo lịch sử về tác giả và bản quyền chỉ được bảo tồn như nguồn gốc. Không có tuyên bố giấy phép mở chung cho tài liệu lịch sử nền tảng.
+- [Bộ sưu tập tiếng Việt: DOI cố định](https://doi.org/10.5281/zenodo.22134809).
+- [Bộ sưu tập tiếng Bồ Đào Nha Brasil](https://doi.org/10.5281/zenodo.22132458).
+- [EGA tiếng Pháp](https://github.com/KokunoYumeto/ega-fr) · [EGA tiếng Anh](https://github.com/KokunoYumeto/ega-en).
+- [EGA IV-2: bản in gốc tại NUMDAM](https://www.numdam.org/item/PMIHES_1965__24__5_0/).
+
+Tất cả tệp đều công khai và có thể tải xuống mà không cần xác thực.
