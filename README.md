@@ -46,3 +46,8 @@ Nếu bạn nắm giữ quyền đối với tài liệu ở đây và phản đ
 
 
 Bản dịch tiếng Việt do AI tạo ra. Các hiệu chỉnh, biên tập và dàn trang cũng do AI thực hiện. Người xuất bản không dịch văn bản. Quyền tác giả và nguồn gốc của tác phẩm gốc cùng các đóng góp được kế thừa được bảo tồn, không gán cho AI. Công việc được ghi nhận gồm OpenAI Codex, GPT-5.6 Sol và GPT-6 Astra, mức nỗ lực Ultra.
+
+
+## EGA I: Chương I
+
+[Nguồn ấn bản hiệu chỉnh: §§1–10 và các bảng tra](editions/EGA_I_chapter_I_current/README.md).
