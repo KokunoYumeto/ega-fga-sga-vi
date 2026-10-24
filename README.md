@@ -55,4 +55,4 @@ Bản dịch tiếng Việt do AI tạo ra. Các hiệu chỉnh, biên tập và
 
 ## FGA: các thành phần nguồn
 
-[Nguồn LaTeX tiếng Việt của các Chuyên đề 195, 212 và 221, với phạm vi cụ thể](source_components/FGA/README.md).
+[Nguồn LaTeX tiếng Việt của các Chuyên đề 195, 212, 221, 232 và 236, với phạm vi cụ thể](source_components/FGA/README.md).
