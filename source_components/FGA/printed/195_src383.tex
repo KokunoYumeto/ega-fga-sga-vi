@@ -1,0 +1,63 @@
+\src{383}
+thương của $G_T$ phẳng trên $T$. Dường như bài toán có nghiệm bằng một lược đồ
+$C$ kiểu hữu hạn địa phương trên $S$ khi $X$ riêng trên tiền lược đồ Noether
+địa phương $S$ và $G$ còn coherent. Dù sao, chỉ cần giả sử $S$ Noether địa
+phương thì hạn chế của $F$ lên các ``$S$-đại số Artin'' là pro-biểu diễn được;
+và nếu thêm rằng $X$ riêng trên $S$ và $G$ coherent thì các thành phần địa
+phương của vành tôpô tương ứng $O$ là Noether. Dĩ nhiên, ngay cả sau khi chứng
+minh sự tồn tại của ``lược đồ Chow'' của $X$ trên $S$, vẫn còn phải tìm một
+phân tích thành các tập mở rời nhau $C_i$ (tương ứng với việc cố định các bất
+biến liên tục như bậc và chiều của các chu trình đang biến thiên) kiểu hữu hạn
+(chứ không chỉ kiểu hữu hạn địa phương) trên $S$, làm rõ quan hệ giữa lược đồ
+này với các đa tạp Chow cổ điển, và xác định khi nào một $C_i$ thậm chí xạ ảnh,
+hoặc ít nhất tựa xạ ảnh, trên $S$.
+
+\subsection*{3. Các lược đồ Picard}
+\addcontentsline{toc}{subsection}{3. Các lược đồ Picard}
+
+Cho $f:X\longrightarrow S$ là một $S$-tiền lược đồ, xét bó nhân
+$\mathcal O_X^*$ các đơn vị của bó cấu trúc của $X$, và nhóm
+\[
+  P(X/S)=H^0\bigl(S,R^1f_*(\mathcal O_X^*)\bigr),
+\]
+gọi là nhóm Picard tương đối của $X/S$. Như vậy, một phần tử của nhóm này được
+xác định bằng cách cho một phủ mở $(U_i)$ của $S$ và một bó khả nghịch $L_i$
+trên mỗi $f^{-1}(U_i)$, sao cho với mọi cặp $(i,j)$,
+$L_i|f^{-1}(U_i\cap U_j)$ đẳng cấu với
+$L_j|f^{-1}(U_i\cap U_j)$, ít nhất là địa phương trên $U_i\cap U_j$ (tức hai bó
+này ``tương đương'' theo nghĩa của [3], B, 4). Nếu $X/S$ có một tiết diện thì
+$P(X/S)$ không gì khác hơn tập các lớp bó khả nghịch trên $X/S$ modulo
+``tương đương'' (loco citato). Bây giờ, với mọi $T$ trên $S$, đặt
+\[
+  F(T)=P(X_T/T) ;
+\]
+ta được một hàm tử hiệp biến theo $T$, có thể gọi là hàm tử Picard của $X/S$;
+nếu hàm tử này biểu diễn được thì tiền lược đồ trên $S$ biểu diễn nó được gọi
+là tiền lược đồ Picard của $X/S$ và ký hiệu $\underline P(X/S)$. Do đó có một
+đẳng cấu hàm tử
+\[
+  \operatorname{Hom}_S\bigl(T,\underline P(X/S)\bigr)
+  \xrightarrow{\sim}P(X_T/T).
+\]
+Phép lập tiền lược đồ Picard tương thích với mở rộng cơ sở; đặc biệt, các tiền
+lược đồ Picard của các thớ của $X$ trên $S$ (là các tiền lược đồ trên các
+trường thặng dư $K(s)$ của $s\in S$) chính là các thớ của
+$\underline P(X/S)$. Dĩ nhiên, vì $P(X_T/T)=F(T)$ là một nhóm giao hoán, các
+tiền lược đồ Picard là các tiền lược đồ nhóm. Cũng cần lưu ý rằng các Jacobian
+tổng quát của Rosenlicht không gì khác hơn các thành phần liên thông của đơn
+vị trong các lược đồ Picard của những đường cong đầy đủ có thể có kỳ dị; điều
+này hẳn làm hiển nhiên phần lớn các tính chất của chúng (một khi đã chứng minh
+sự tồn tại).
+
+\result{NHẬN XÉT}{} Định nghĩa được chọn ở đây chỉ hợp lý khi mọi điểm của
+$Y$ có một lân cận mở $U$ mà trên đó $X$ có một tiết diện. Trong trường hợp
+tổng quát, phải sửa nhẹ định nghĩa hàm tử Picard để vẫn có thể thu được một
+định lý tồn tại.
+
+Ở đây, các điều kiện hợp lý cho sự tồn tại của một tiền lược đồ Picard là:
+$X$ riêng và phẳng trên $S$, $f_*(\mathcal O_X)=\mathcal O_S$, và $X$ có địa
+phương một tiết diện trên $S$. Điều kiện này xuất hiện tự nhiên khi áp dụng kỹ
+thuật hạ xuống: để loại bỏ các tự đẳng cấu của một bó khả nghịch $L$ trên $X$,
+ta trang bị cho nó một tiết diện được đánh dấu trên tiết diện $s$ ([3], B, 4).
+Đặc biệt, ta thu được:
+

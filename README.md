@@ -51,3 +51,8 @@ Bản dịch tiếng Việt do AI tạo ra. Các hiệu chỉnh, biên tập và
 ## EGA I: Chương I
 
 [Nguồn ấn bản hiệu chỉnh: §§1–10 và các bảng tra](editions/EGA_I_chapter_I_current/README.md).
+
+
+## FGA: các thành phần nguồn
+
+[Nguồn LaTeX tiếng Việt của các Chuyên đề 195, 212 và 221, với phạm vi cụ thể](source_components/FGA/README.md).
