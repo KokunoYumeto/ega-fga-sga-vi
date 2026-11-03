@@ -11,5 +11,3 @@ Validation gates:
 - structural/source alignment and 1/1-page visual review pass.
 
 All release assets are public and accompanied by exact SHA-256 checksums.
-
-Permanent archive: [Zenodo record 22134810](https://zenodo.org/records/22134810), DOI [`10.5281/zenodo.22134810`](https://doi.org/10.5281/zenodo.22134810); concept DOI [`10.5281/zenodo.22134809`](https://doi.org/10.5281/zenodo.22134809).

@@ -1,127 +1,104 @@
-# Cơ sở hình học đại số — bản tiếng Việt
-
-Các báo cáo Bourbaki số149,182,190,195,212,221,232,236 của Alexandre Grothendieck, các đính chính, bổ sung và bình luận năm1962. Bản dịch, hiệu đính và trình bày tiếng Việt do AI thực hiện; người xuất bản không dịch phần nội dung.
-
-- [Bản hiệu đính — PDF, 142 trang](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-10-24-fga.1/00_FGA_vi_CURRENT_READER.pdf) · [mã nguồn LaTeX](https://github.com/KokunoYumeto/ega-fga-sga-vi/tree/main/editions/FGA_CUMULATIVE_CURRENT/)
-- [Bản theo nguyên bản in — PDF, 140 trang](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-10-24-fga.1/03_FGA_vi_DIPLOMATIC_READER.pdf) · [mã nguồn LaTeX](https://github.com/KokunoYumeto/ega-fga-sga-vi/tree/main/editions/FGA_CUMULATIVE_DIPLOMATIC/)
-
-[Nguồn và tác giả](https://github.com/KokunoYumeto/ega-fga-sga-vi/blob/main/editions/FGA_CUMULATIVE_CURRENT/ATTRIBUTION.md) · [Quyền](https://github.com/KokunoYumeto/ega-fga-sga-vi/blob/main/editions/FGA_CUMULATIVE_CURRENT/RIGHTS_NOTICE.md).
-
-Mỗi bản đọc có một tệp LaTeX trực tiếp và một gói đầy đủ các tệp nguồn có thể chỉnh sửa.
-
-# EGA, FGA và SGA bằng tiếng Việt
-
-
-
-## EGA II: nguồn biên tập được
-
-
-
-[Văn bản hiệu chỉnh](editions/EGA_II_current/README.md) · [bản dịch ngoại giao](editions/EGA_II_diplomatic/README.md). [Nguồn và đóng góp](ATTRIBUTION_EGA_II.md).
-
-
-
-Bộ sưu tập các bản dịch toán học độc lập, với phạm vi từng phần. Nguồn và tài liệu ghi nhận hiệu chỉnh được cung cấp cùng các bản đọc. Đây không phải tuyên bố rằng toàn bộ các tập EGA, FGA và SGA đã được dịch.
-
-
-
-## EGA IV-2: bắt đầu đọc
-
-
-
-- [Bản đọc hiện hành: các mục 2.1 và 2.8](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-09-07-preview.1/EGA_IV2_VI_CURRENT.pdf).
-
-- [Bản dịch theo bản in: các mục 2.1 và 2.8](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-09-07-preview.1/EGA_IV2_VI_DIPLOMATIC.pdf).
-
-
-
-Mỗi bản đọc có sáu trang, tập hợp toàn bộ hai mục và giữ nguyên số mục gốc. Các mục 2.2 đến 2.7 chưa có trong bản đọc này. Dấu trang PDF dẫn trực tiếp đến từng mục. Các PDF riêng của mục 2.1 và mục 2.8 vẫn được cung cấp.
-
-
-
-Bản đọc hiện hành áp dụng các hiệu chỉnh đã ghi nhận. Bản dịch theo bản in giữ các cách đọc của bản in gốc. Trong mục 2.8, khác biệt duy nhất là dẫn chiếu (2.8.4.1) ở bản hiện hành và (2.8.3.1) ở bản theo bản in. Gói R2 bảo tồn nguồn và tài liệu kiểm chứng; bổ sung R3 chỉ sửa thuật ngữ trên hai trang bìa tiếng Việt, không thay đổi nội dung toán học.
-
-
-
-## Các phần khác đã công bố
-
-
-
-- EGA I: các mục 7.3.1–7.3.7, trong các PDF và gói nguồn được nêu trong bản kê tệp.
-
-- EGA II: Hệ quả II.7.3.10 và chứng minh.
-
-- EGA IV-1: Chương 0, mục 14 và mục 15 đến 15.1.16.
-
-
-
-Các bản đọc, nguồn và tài liệu kiểm chứng đã công bố được giữ nguyên trong phiên bản này. Gói song ngữ R3 ngày 2026-08-28 chỉ thuộc mục 2.1 của EGA IV-2; không được nhầm với R2/R3 của mục 2.8. Các gói mang tên 15_1_15 là tài liệu lịch sử của phạm vi ấy, không phải gói nguồn cho 15.1.16. `CONTENT_MANIFEST.json` và `SHA256SUMS.txt` xác định chính xác toàn bộ tệp.
-
-
-
-## Tác giả và bản dịch
-
-
-
-Các phần EGA hiện có trong bộ sưu tập là nguyên tác của Alexander Grothendieck, biên soạn với sự cộng tác của Jean Dieudonné. Bản dịch độc lập có hỗ trợ của AI do dự án Interlanguage duy trì; không phải ấn bản chính thức và không được các tác giả hoặc tổ chức nguồn chứng thực. Cách đọc gốc và hiệu chỉnh biên tập được phân biệt trong tài liệu nguồn.
-
-
-
-## Các ấn bản và nguồn khác
-
-
-
-- [Bộ sưu tập tiếng Việt: DOI cố định](https://doi.org/10.5281/zenodo.22134809).
-
-- [Bộ sưu tập tiếng Bồ Đào Nha Brasil](https://doi.org/10.5281/zenodo.22132458).
-
-- [EGA tiếng Pháp](https://github.com/KokunoYumeto/ega-fr) · [EGA tiếng Anh](https://github.com/KokunoYumeto/ega-en).
-
-- [EGA IV-2: bản in gốc tại NUMDAM](https://www.numdam.org/item/PMIHES_1965__24__5_0/).
-
-
-
-Tất cả tệp đều công khai và có thể tải xuống mà không cần xác thực.
-
-
-
-## Nguồn, quyền và tác giả
-
-
-
-Quyền đối với các tác phẩm gốc và mọi đóng góp được bảo hộ trong các bản dịch và bản chép lại phái sinh này vẫn thuộc về các chủ thể quyền tương ứng. Dự án không đưa những tác phẩm hay đóng góp đó vào phạm vi công cộng và không cấp giấy phép đối với chúng. Các thông báo quyền của bên thứ ba và các sự cho phép đã có vẫn có hiệu lực.
-
-
-
-Các ấn bản được cung cấp miễn phí cho mục đích phi thương mại, thuần túy giáo dục, trên giả định rằng các chủ thể quyền tương ứng sẽ không phản đối việc các bản dịch và bản chép lại được cung cấp miễn phí bên cạnh các bản gốc tiếng Pháp trên [NUMDAM](https://www.numdam.org/). Đây là một giả định, không phải tuyên bố đã được cho phép; việc truy cập miễn phí bản gốc tự nó không cho phép dịch, chuyển thể hoặc tái xuất bản.
-
-
-
-Nếu bạn nắm giữ quyền đối với tài liệu ở đây và phản đối việc cung cấp tài liệu đó, hãy [mở một issue trên GitHub](https://github.com/KokunoYumeto/ega-fga-sga-vi/issues). Người xuất bản cam kết gỡ bỏ tài liệu bị phản đối theo yêu cầu của chủ thể quyền.
-
-
-
-
-
-Bản dịch tiếng Việt do AI tạo ra. Các hiệu chỉnh, biên tập và dàn trang cũng do AI thực hiện. Người xuất bản không dịch văn bản. Quyền tác giả và nguồn gốc của tác phẩm gốc cùng các đóng góp được kế thừa được bảo tồn, không gán cho AI. Công việc được ghi nhận gồm OpenAI Codex, GPT-5.6 Sol và GPT-6 Astra, mức nỗ lực Ultra.
-
-
-
-
-
-## EGA I: Chương I
-
-
-
-[Nguồn ấn bản hiệu chỉnh: §§1–10 và các bảng tra](editions/EGA_I_chapter_I_current/README.md).
-
-
-
-
-
-## FGA: các thành phần nguồn
-
-
-
-[Nguồn LaTeX tiếng Việt của các Chuyên đề 149, 195, 212, 221, 232 và 236, với phạm vi cụ thể](source_components/FGA/README.md).
-
+# EGA, FGA và SGA bằng tiếng Việt: bản dịch các tác phẩm của Grothendieck
+
+Bản dịch tiếng Việt các tác phẩm của Alexander Grothendieck: toàn bộ *Fondements de la géométrie algébrique* (FGA,
+*Nền tảng hình học đại số*), gồm tám bài trình bày tại Séminaire Bourbaki giai đoạn 1957–1962 (số 149, 182, 190,
+195, 212, 221, 232 và 236), các đính chính, bổ sung và bình luận năm 1962; và một phần *Éléments de géométrie
+algébrique* (EGA, *Cơ sở hình học đại số*), viết với sự cộng tác của Jean Dieudonné: trọn EGA III phần thứ nhất,
+EGA II và Chương I của EGA I (dạng nguồn LaTeX), cùng một số mục riêng lẻ của các phần khác. Kho này chưa có tập SGA
+nào.
+
+## Cách thực hiện
+
+Bản dịch, các hiệu chỉnh, biên tập và dàn trang do AI thực hiện. Công việc được ghi nhận gồm OpenAI Codex, GPT-5.6
+Sol và GPT-6 Astra, mức nỗ lực Ultra. Với EGA III phần thứ nhất, việc tiếp nhận, dựng lại bản theo bản in, lắp ráp,
+sửa chữa và kiểm tra do GPT-5.6 Sol thực hiện; với phần dịch trước đó, hồ sơ không ghi rõ mô hình.
+
+Bản tiếng Pháp là nguồn chính. Bản tham khảo tiếng Anh: với FGA là bản dịch của Tim Hosgood, với EGA II là bản dịch
+của dự án ryankeleti/ega (xem «Nguồn và ghi công»). Nhiều phần có hai ấn bản riêng: bản hiệu đính, có các sửa chữa
+đã ghi nhận, và bản theo bản in (bản ngoại giao), giữ cách đọc của bản in gốc. Các bản đọc EGA III phần thứ nhất đã
+được biên dịch tất định và kiểm tra trực quan từng trang.
+
+## Tình trạng
+
+FGA đã dịch trọn. EGA mới dịch một phần (xem «Nội dung»). Văn bản có thể còn lỗi.
+
+## Các ấn bản khác
+
+EGA:
+
+- Tiếng Pháp: [ega-fr](https://github.com/KokunoYumeto/ega-fr): bản chép lại đầy đủ văn bản in, gồm bản ngoại giao và
+  bản hiệu đính.
+- Tiếng Anh: [ega-en](https://github.com/KokunoYumeto/ega-en): bản dịch đầy đủ (lời giới thiệu, Chương 0–IV).
+- Tiếng Tây Ban Nha: [ega-fga-es](https://github.com/KokunoYumeto/ega-fga-es): EGA II, EGA III và EGA IV phần 3, 4;
+  của EGA IV phần 1, chỉ Chương 0.
+- Tiếng Bồ Đào Nha (Brasil): [ega-fga-sga-pt-br](https://github.com/KokunoYumeto/ega-fga-sga-pt-br): EGA II, EGA III
+  phần thứ nhất, EGA IV phần thứ ba và Chương I của EGA I; các phần khác chỉ có mục riêng lẻ.
+- Tiếng Hàn: [ega-ko](https://github.com/KokunoYumeto/ega-ko): EGA I–III; của EGA IV phần 1, Chương 0 §§14–23 và
+  Chương IV §1.
+- Tiếng Trung giản thể: [ega-zh-hans-cn](https://github.com/KokunoYumeto/ega-zh-hans-cn): EGA I–III; của EGA IV phần
+  1, Chương 0 §§14–23 và Chương IV §1.
+
+FGA: [fga-fr](https://github.com/KokunoYumeto/fga-fr) (tiếng Pháp, bản chép lại đầy đủ),
+[fga-en](https://github.com/KokunoYumeto/fga-en) (tiếng Anh), [ega-fga-es](https://github.com/KokunoYumeto/ega-fga-es)
+(tiếng Tây Ban Nha), [ega-fga-sga-pt-br](https://github.com/KokunoYumeto/ega-fga-sga-pt-br) (tiếng Bồ Đào Nha),
+[fga-ko](https://github.com/KokunoYumeto/fga-ko) (tiếng Hàn), [fga-zh-hans-cn](https://github.com/KokunoYumeto/fga-zh-hans-cn)
+(tiếng Trung giản thể): tất cả đều đầy đủ.
+
+SGA: [sga-en](https://github.com/KokunoYumeto/sga-en) (tiếng Anh, SGA 1–7 và SGA 4½ đầy đủ),
+[sga-es](https://github.com/KokunoYumeto/sga-es) (tiếng Tây Ban Nha, đầy đủ),
+[ega-fga-sga-pt-br](https://github.com/KokunoYumeto/ega-fga-sga-pt-br) (tiếng Bồ Đào Nha: SGA 4½ đầy đủ, một phần
+SGA 3 và SGA 5).
+
+Mọi ấn bản EGA, FGA và SGA của dự án được liệt kê tại [ega-fga-sga](https://github.com/KokunoYumeto/ega-fga-sga).
+
+## Nội dung
+
+### FGA
+
+Ấn bản ngày 24 tháng 10 năm 2026; mỗi bản đọc có một tệp LaTeX trực tiếp và một gói đầy đủ các tệp nguồn.
+
+- [Bản hiệu đính, PDF](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-10-24-fga.1/00_FGA_vi_CURRENT_READER.pdf) ·
+  [nguồn LaTeX](editions/FGA_CUMULATIVE_CURRENT/README.md)
+- [Bản theo bản in, PDF](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-10-24-fga.1/03_FGA_vi_DIPLOMATIC_READER.pdf) ·
+  [nguồn LaTeX](editions/FGA_CUMULATIVE_DIPLOMATIC/README.md)
+
+### EGA
+
+- EGA III, phần thứ nhất (Chương 0, §§8–13; Chương III, §§1–5; thư mục, chỉ mục và mục lục): bản hiện hành
+  ([PDF](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-09-23-preview.2/025_EGA_III1_VI_CURRENT_READER.pdf) ·
+  [LaTeX](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-09-23-preview.2/026_EGA_III1_VI_CURRENT_READER.tex) ·
+  [nguồn](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-09-23-preview.2/027_EGA_III1_VI_CURRENT_READER_SOURCE.zip))
+  và bản ngoại giao
+  ([PDF](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-09-23-preview.2/028_EGA_III1_VI_DIPLOMATIC_READER.pdf) ·
+  [LaTeX](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-09-23-preview.2/029_EGA_III1_VI_DIPLOMATIC_READER.tex) ·
+  [nguồn](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/download/v2026-09-23-preview.2/030_EGA_III1_VI_DIPLOMATIC_READER_SOURCE.zip)).
+- EGA II (§§1–8, thư mục, bảng tra, mục lục và đính chính), nguồn LaTeX:
+  [bản hiệu đính](editions/EGA_II_current/README.md) · [bản ngoại giao](editions/EGA_II_diplomatic/README.md).
+- EGA I, Chương I (§§1–10 và bảng tra), nguồn LaTeX: [bản hiệu đính](editions/EGA_I_chapter_I_current/README.md).
+- Các mục riêng lẻ: EGA I, §§7.3.1–7.3.7; EGA II, Hệ quả II.7.3.10 và chứng minh
+  ([ega2_II_7_3_10_vi.tex](ega2_II_7_3_10_vi.tex), [PROVENANCE.md](PROVENANCE.md)); EGA IV, các mục 2.1 và 2.8, và
+  Chương 0, mục 14 và mục 15 đến 15.1.16; trong
+  [bản phát hành ngày 7 tháng 9 năm 2026](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases/tag/v2026-09-07-preview.1).
+
+Các phiên bản trước nằm trong [các bản phát hành trên GitHub](https://github.com/KokunoYumeto/ega-fga-sga-vi/releases).
+
+## Nguồn và ghi công
+
+- EGA: Alexander Grothendieck, với sự cộng tác của Jean Dieudonné, *Éléments de géométrie algébrique*, *Publications
+  mathématiques de l'IHÉS* (1960–1967), trên [NUMDAM](https://www.numdam.org/journals/PMIHES/).
+- FGA: Alexander Grothendieck, *Fondements de la géométrie algébrique*, trên [NUMDAM](https://www.numdam.org/). Bản
+  tham khảo tiếng Anh có lời văn kế thừa từ bản dịch của
+  [Tim Hosgood](https://github.com/thosgood/fga/tree/9976dd5f8e2ddcb388f0a07f3aa334f120d1019f) (phiên bản 9976dd5);
+  ông ghi nhận Steve Hnizdur về sửa chữa và Jon Sterling về hỗ trợ kỹ thuật.
+- EGA II: bản tham khảo tiếng Anh và cấu trúc TeX có nguồn gốc từ bản dịch do con người thực hiện
+  [ryankeleti/ega](https://github.com/ryankeleti/ega/tree/3d7afe28c99d1887ccdb85acf2ca1afd93fb1971) (phiên bản
+  3d7afe2), với các cộng tác viên Mateo Carmona, Tim Holzschuh, Tim Hosgood, Ryan Keleti, Thiago Solovera & Nery và
+  Wayne Yang ([ATTRIBUTION_EGA_II.md](ATTRIBUTION_EGA_II.md)).
+- Bản dịch tiếng Việt không được gán cho các dịch giả nêu trên.
+
+## Quyền
+
+Trong phạm vi người xuất bản có quyền đối với bản dịch, các hiệu chỉnh và phần dàn trang do AI thực hiện, các quyền
+đó được hiến tặng vào phạm vi công cộng theo [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+Điều này không ảnh hưởng đến quyền đối với các tác phẩm gốc và các bản dịch do con người thực hiện nêu trên, và không
+cho phép sử dụng chúng. Thông báo đầy đủ: [RIGHTS_NOTICE.md](RIGHTS_NOTICE.md).

@@ -1,10 +1,5 @@
-# Purpose and use
+# Mục đích và cách sử dụng
 
-This is an independent, non-commercial, educational edition. It was made and paid for privately by its
-maintainer, so that people can read the works of Alexander Grothendieck and his collaborators in their own
-language. Nothing here is sold, and no revenue is collected. The aim is to turn this material into open teaching
-resources, including public lesson plans.
+Đây là một ấn bản độc lập, phi thương mại, phục vụ giáo dục. Người duy trì ấn bản tự thực hiện và tự chi trả, để mọi người có thể đọc các tác phẩm của Alexander Grothendieck và các cộng sự của ông bằng ngôn ngữ của mình. Không có gì ở đây được bán và không có khoản thu nào. Mục tiêu là biến tài liệu này thành tài nguyên giảng dạy mở, kể cả các giáo án công khai.
 
-The original works remain their authors' work, and the rights in them remain with their holders; this edition
-claims no ownership of the originals. The original texts are freely readable elsewhere, for example on Numdam and
-arXiv.
+Các tác phẩm gốc vẫn là của các tác giả, và quyền đối với chúng vẫn thuộc về các chủ thể quyền; ấn bản này không tuyên bố sở hữu bản gốc. Các văn bản gốc có thể được đọc miễn phí ở nơi khác, chẳng hạn trên Numdam và arXiv.

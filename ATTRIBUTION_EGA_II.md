@@ -2,9 +2,9 @@
 
 Tác phẩm gốc của Alexandre Grothendieck, với sự cộng tác của Jean Dieudonné: EGA II, Publications Mathématiques de l’IHÉS 8 (1961), tr. 5–222, [NUMDAM](https://numdam.org/item/PMIHES_1961__8__5_0/). Bản tham khảo tiếng Anh và cấu trúc TeX được sử dụng có nguồn gốc từ bản dịch do con người thực hiện tại [ryankeleti/ega](https://github.com/ryankeleti/ega/tree/3d7afe28c99d1887ccdb85acf2ca1afd93fb1971), phiên bản 3d7afe28c99d1887ccdb85acf2ca1afd93fb1971. Các cộng tác viên được ghi tên gồm Mateo Carmona, Tim Holzschuh, Tim Hosgood, Ryan Keleti, Thiago Solovera & Nery, Wayne Yang. [Ghi công theo từng mục](https://github.com/ryankeleti/ega/blob/3d7afe28c99d1887ccdb85acf2ca1afd93fb1971/README.md) xác định các đóng góp của họ. Bản dịch tiếng Anh được kế thừa vẫn giữ nguồn gốc tác giả đó; bản dịch tiếng Việt và các phần bổ sung do AI thực hiện không được gán cho các cộng tác viên này. Ghi công không đồng nghĩa với việc được cho phép hay được bảo chứng.
 
-Bản dịch tiếng Việt do AI tạo ra. Các hiệu chỉnh, biên tập và dàn trang cũng do AI thực hiện. Người xuất bản không dịch văn bản. Quyền tác giả và nguồn gốc của tác phẩm gốc cùng các đóng góp được kế thừa được bảo tồn, không gán cho AI. Công việc được ghi nhận gồm OpenAI Codex, GPT-5.6 Sol và GPT-6 Astra, mức nỗ lực Ultra.
+Bản dịch tiếng Việt do AI tạo ra. Các hiệu chỉnh, biên tập và dàn trang cũng do AI thực hiện. Quyền tác giả và nguồn gốc của tác phẩm gốc cùng các đóng góp được kế thừa được bảo tồn, không gán cho AI. Công việc được ghi nhận gồm OpenAI Codex, GPT-5.6 Sol và GPT-6 Astra, mức nỗ lực Ultra.
 
-| Module | SHA-256 de la versión utilizada |
+| Mô-đun | SHA-256 của phiên bản đã dùng |
 | --- | --- |
 | ega2/ega2-1.tex | e0cd7f6f310016864cd704bb30676943e8ee1112da5c1472f258fdce423bcfc5 |
 | ega2/ega2-2.tex | cd8a877c40a52f28e34b6bf77d95e72bf7c37c5f2f4b023cba3d6e33c616a53d |
