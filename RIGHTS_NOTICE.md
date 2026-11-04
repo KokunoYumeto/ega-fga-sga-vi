@@ -4,4 +4,4 @@ Trong phạm vi người xuất bản có quyền đối với bản dịch, cá
 
 Các ấn bản được cung cấp miễn phí cho mục đích phi thương mại và giáo dục, bên cạnh các bản gốc tiếng Pháp trên [NUMDAM](https://www.numdam.org/), trên giả định rằng các chủ thể quyền sẽ không phản đối; giả định này không có nghĩa là đã được cho phép. Nếu bạn nắm giữ quyền đối với tài liệu ở đây và phản đối việc cung cấp tài liệu đó, hãy [mở một issue trên GitHub](https://github.com/KokunoYumeto/ega-fga-sga-vi/issues); tài liệu sẽ được gỡ bỏ.
 
-Bản dịch tiếng Việt, các hiệu chỉnh, biên tập và dàn trang do AI thực hiện; quyền tác giả và nguồn gốc của tác phẩm gốc cùng các đóng góp được kế thừa được giữ nguyên. Công việc được ghi nhận gồm OpenAI Codex, GPT-5.6 Sol và GPT-6 Astra, mức nỗ lực Ultra.
+Bản dịch tiếng Việt, các hiệu chỉnh, biên tập và dàn trang do AI thực hiện; quyền tác giả và nguồn gốc của tác phẩm gốc cùng các đóng góp được kế thừa được giữ nguyên. Bản dịch do các mô hình OpenAI Codex thực hiện (GPT-5.6 Sol và GPT-6.1 Sol); GPT-6 Astra kiểm tra, hiệu chỉnh và lắp ráp, mức nỗ lực Ultra.

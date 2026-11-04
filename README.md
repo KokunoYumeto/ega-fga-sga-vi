@@ -9,9 +9,10 @@ nào.
 
 ## Cách thực hiện
 
-Bản dịch, các hiệu chỉnh, biên tập và dàn trang do AI thực hiện. Công việc được ghi nhận gồm OpenAI Codex, GPT-5.6
-Sol và GPT-6 Astra, mức nỗ lực Ultra. Với EGA III phần thứ nhất, việc tiếp nhận, dựng lại bản theo bản in, lắp ráp,
-sửa chữa và kiểm tra do GPT-5.6 Sol thực hiện; với phần dịch trước đó, hồ sơ không ghi rõ mô hình.
+Bản dịch, các hiệu chỉnh, biên tập và dàn trang do AI thực hiện. Bản dịch do các mô hình OpenAI Codex thực hiện
+(GPT-5.6 Sol và GPT-6.1 Sol, mức nỗ lực Ultra); GPT-6 Astra (mức nỗ lực Ultra) kiểm tra, hiệu chỉnh và lắp ráp. Với
+EGA III phần thứ nhất, việc tiếp nhận, dựng lại bản theo bản in, lắp ráp, sửa chữa và kiểm tra do GPT-5.6 Sol thực
+hiện.
 
 Bản tiếng Pháp là nguồn chính. Bản tham khảo tiếng Anh: với FGA là bản dịch của Tim Hosgood, với EGA II là bản dịch
 của dự án ryankeleti/ega (xem «Nguồn và ghi công»). Nhiều phần có hai ấn bản riêng: bản hiệu đính, có các sửa chữa

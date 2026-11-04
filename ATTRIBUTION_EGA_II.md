@@ -2,7 +2,7 @@
 
 Tác phẩm gốc của Alexandre Grothendieck, với sự cộng tác của Jean Dieudonné: EGA II, Publications Mathématiques de l’IHÉS 8 (1961), tr. 5–222, [NUMDAM](https://numdam.org/item/PMIHES_1961__8__5_0/). Bản tham khảo tiếng Anh và cấu trúc TeX được sử dụng có nguồn gốc từ bản dịch do con người thực hiện tại [ryankeleti/ega](https://github.com/ryankeleti/ega/tree/3d7afe28c99d1887ccdb85acf2ca1afd93fb1971), phiên bản 3d7afe28c99d1887ccdb85acf2ca1afd93fb1971. Các cộng tác viên được ghi tên gồm Mateo Carmona, Tim Holzschuh, Tim Hosgood, Ryan Keleti, Thiago Solovera & Nery, Wayne Yang. [Ghi công theo từng mục](https://github.com/ryankeleti/ega/blob/3d7afe28c99d1887ccdb85acf2ca1afd93fb1971/README.md) xác định các đóng góp của họ. Bản dịch tiếng Anh được kế thừa vẫn giữ nguồn gốc tác giả đó; bản dịch tiếng Việt và các phần bổ sung do AI thực hiện không được gán cho các cộng tác viên này. Ghi công không đồng nghĩa với việc được cho phép hay được bảo chứng.
 
-Bản dịch tiếng Việt do AI tạo ra. Các hiệu chỉnh, biên tập và dàn trang cũng do AI thực hiện. Quyền tác giả và nguồn gốc của tác phẩm gốc cùng các đóng góp được kế thừa được bảo tồn, không gán cho AI. Công việc được ghi nhận gồm OpenAI Codex, GPT-5.6 Sol và GPT-6 Astra, mức nỗ lực Ultra.
+Bản dịch tiếng Việt do AI tạo ra. Các hiệu chỉnh, biên tập và dàn trang cũng do AI thực hiện. Quyền tác giả và nguồn gốc của tác phẩm gốc cùng các đóng góp được kế thừa được bảo tồn, không gán cho AI. Bản dịch do các mô hình OpenAI Codex thực hiện (GPT-5.6 Sol và GPT-6.1 Sol); GPT-6 Astra kiểm tra, hiệu chỉnh và lắp ráp, mức nỗ lực Ultra.
 
 | Mô-đun | SHA-256 của phiên bản đã dùng |
 | --- | --- |
